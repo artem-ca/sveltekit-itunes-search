@@ -22,7 +22,7 @@
         <img
             src={songResults.artworkUrl100}
             alt="img"
-            class="w-1/4 rounded-md mb-12"
+            class="w-1/4 rounded-xl mb-12 shadow-2xl"
         />
         <audio controls>
             <source src={songResults.previewUrl} type="audio/mpeg" />
